@@ -1,1 +1,1 @@
-com.example.exampleaddon.kubejs.ExampleKubeJSPlugin
+com.forget_melody.terrablenderjs.kubejs.TerraBlenderKubeJSPlugin
